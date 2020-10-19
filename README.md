@@ -2,6 +2,6 @@
 
 ¡uno!
 dos
-tres
+¡tres!
 cuatro
 cinco
